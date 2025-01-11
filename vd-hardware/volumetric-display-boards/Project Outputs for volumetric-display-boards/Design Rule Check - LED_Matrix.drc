@@ -1,0 +1,619 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\amsie\OneDrive\Documents\GitHub\volumetric-display\vd-hardware\volumetric-display-boards\LED_Matrix.PcbDoc
+Date     : 1/11/2025
+Time     : 4:58:08 PM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row10-3(87.033mm,105.479mm) on Top Layer And Pad D1_LED_Row11-3(87.033mm,112.083mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row9-3(87.033mm,98.875mm) on Top Layer And Pad D1_LED_Row10-3(87.033mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row11-3(87.033mm,112.083mm) on Top Layer And Pad D1_LED_Row12-3(87.033mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row12-3(87.033mm,118.687mm) on Top Layer And Pad D1_LED_Row13-3(87.033mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row1-3(85.783mm,35.725mm) on Top Layer And Pad D2_LED_Row1-3(88.709mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row13-3(87.033mm,125.291mm) on Top Layer And Pad D1_LED_Row14-3(87.033mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row14-3(87.033mm,131.895mm) on Top Layer And Pad D1_LED_Row15-3(87.033mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row15-3(87.033mm,138.499mm) on Top Layer And Pad D1_LED_Row16-3(87.033mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row16-3(87.033mm,145.103mm) on Top Layer And Pad D1_LED_Row17-3(87.033mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row17-3(87.033mm,151.707mm) on Top Layer And Pad D1_LED_Row18-3(87.033mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row18-3(87.033mm,158.311mm) on Top Layer And Pad D1_LED_Row19-3(87.033mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row19-3(87.033mm,164.915mm) on Top Layer And Pad D1_LED_Row20-3(87.033mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row20-3(87.033mm,171.519mm) on Top Layer And Pad D1_LED_Row21-3(87.033mm,178.123mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row21-3(87.033mm,178.123mm) on Top Layer And Pad D1_LED_Row22-3(87.033mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row22-3(87.033mm,184.727mm) on Top Layer And Pad D1_LED_Row23-3(87.033mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row2-3(87.033mm,52.647mm) on Top Layer And Pad D1_LED_Row3-3(87.033mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row23-3(87.033mm,191.331mm) on Top Layer And Pad D1_LED_Row24-3(87.033mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row3-3(87.033mm,59.251mm) on Top Layer And Pad D1_LED_Row4-3(87.033mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row4-3(87.033mm,65.855mm) on Top Layer And Pad D1_LED_Row5-3(87.033mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row5-3(87.033mm,72.459mm) on Top Layer And Pad D1_LED_Row6-3(87.033mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row6-3(87.033mm,79.063mm) on Top Layer And Pad D1_LED_Row7-3(87.033mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row7-3(87.033mm,85.667mm) on Top Layer And Pad D1_LED_Row8-3(87.033mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D1_LED_Row8-3(87.033mm,92.271mm) on Top Layer And Pad D1_LED_Row9-3(87.033mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row11-3(255.943mm,112.083mm) on Top Layer And Pad D10_LED_Row10-3(260.388mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row11-3(255.943mm,112.083mm) on Top Layer And Pad D10_LED_Row12-3(260.388mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row12-3(260.388mm,118.687mm) on Top Layer And Pad D10_LED_Row13-3(260.388mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row1-3(112.117mm,35.725mm) on Top Layer And Pad D11_LED_Row1-3(115.043mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row1-3(109.191mm,35.725mm) on Top Layer And Pad D10_LED_Row1-3(112.117mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row13-3(260.388mm,125.291mm) on Top Layer And Pad D10_LED_Row14-3(260.388mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row14-3(260.388mm,131.895mm) on Top Layer And Pad D10_LED_Row15-3(260.388mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row15-3(260.388mm,138.499mm) on Top Layer And Pad D10_LED_Row16-3(260.388mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row16-3(260.388mm,145.103mm) on Top Layer And Pad D10_LED_Row17-3(260.388mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row17-3(260.388mm,151.707mm) on Top Layer And Pad D10_LED_Row18-3(260.388mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row18-3(260.388mm,158.311mm) on Top Layer And Pad D10_LED_Row19-3(260.388mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row19-3(260.388mm,164.915mm) on Top Layer And Pad D10_LED_Row20-3(262.674mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row21-3(258.229mm,178.123mm) on Top Layer And Pad D10_LED_Row20-3(262.674mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row21-3(258.229mm,178.123mm) on Top Layer And Pad D10_LED_Row22-3(262.674mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row22-3(262.674mm,184.727mm) on Top Layer And Pad D10_LED_Row23-3(262.674mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row2-3(249.085mm,52.647mm) on Top Layer And Pad D10_LED_Row3-3(249.085mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row23-3(262.674mm,191.331mm) on Top Layer And Pad D10_LED_Row24-3(262.674mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row3-3(249.085mm,59.251mm) on Top Layer And Pad D10_LED_Row4-3(249.085mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row4-3(249.085mm,65.855mm) on Top Layer And Pad D10_LED_Row5-3(249.085mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row5-3(249.085mm,72.459mm) on Top Layer And Pad D10_LED_Row6-3(249.085mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row6-3(249.085mm,79.063mm) on Top Layer And Pad D10_LED_Row7-3(249.085mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row7-3(249.085mm,85.667mm) on Top Layer And Pad D10_LED_Row8-3(249.085mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D10_LED_Row8-3(249.085mm,92.271mm) on Top Layer And Pad D10_LED_Row9-3(249.085mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row11-1(274.282mm,111.183mm) on Top Layer And Pad D11_LED_Row10-1(279.362mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row9-1(266.662mm,97.975mm) on Top Layer And Pad D11_LED_Row10-1(279.362mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row11-3(275.882mm,112.083mm) on Top Layer And Pad D11_LED_Row10-3(280.962mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row1-1(115.943mm,34.125mm) on Top Layer And Pad D11_LED_Row2-1(266.662mm,51.747mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row11-1(274.282mm,111.183mm) on Top Layer And Pad D11_LED_Row12-1(279.362mm,117.787mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row11-3(275.882mm,112.083mm) on Top Layer And Pad D11_LED_Row12-3(280.962mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row12-1(279.362mm,117.787mm) on Top Layer And Pad D11_LED_Row13-1(279.362mm,124.391mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row12-3(280.962mm,118.687mm) on Top Layer And Pad D11_LED_Row13-3(280.962mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row1-3(115.043mm,35.725mm) on Top Layer And Pad D12_LED_Row1-3(117.969mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row13-1(279.362mm,124.391mm) on Top Layer And Pad D11_LED_Row14-1(279.362mm,130.995mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row13-3(280.962mm,125.291mm) on Top Layer And Pad D11_LED_Row14-3(280.962mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row14-1(279.362mm,130.995mm) on Top Layer And Pad D11_LED_Row15-1(279.362mm,137.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row14-3(280.962mm,131.895mm) on Top Layer And Pad D11_LED_Row15-3(280.962mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row15-1(279.362mm,137.599mm) on Top Layer And Pad D11_LED_Row16-1(279.362mm,144.203mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row15-3(280.962mm,138.499mm) on Top Layer And Pad D11_LED_Row16-3(280.962mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row16-1(279.362mm,144.203mm) on Top Layer And Pad D11_LED_Row17-1(279.362mm,150.807mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row16-3(280.962mm,145.103mm) on Top Layer And Pad D11_LED_Row17-3(280.962mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row17-1(279.362mm,150.807mm) on Top Layer And Pad D11_LED_Row18-1(279.362mm,157.411mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row17-3(280.962mm,151.707mm) on Top Layer And Pad D11_LED_Row18-3(280.962mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row18-1(279.362mm,157.411mm) on Top Layer And Pad D11_LED_Row19-1(279.362mm,164.015mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row18-3(280.962mm,158.311mm) on Top Layer And Pad D11_LED_Row19-3(280.962mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row19-1(279.362mm,164.015mm) on Top Layer And Pad D11_LED_Row20-1(281.902mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row19-3(280.962mm,164.915mm) on Top Layer And Pad D11_LED_Row20-3(283.502mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row21-1(276.822mm,177.223mm) on Top Layer And Pad D11_LED_Row20-1(281.902mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row21-3(278.422mm,178.123mm) on Top Layer And Pad D11_LED_Row20-3(283.502mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row2-1(266.662mm,51.747mm) on Top Layer And Pad D11_LED_Row3-1(266.662mm,58.351mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row21-1(276.822mm,177.223mm) on Top Layer And Pad D11_LED_Row22-1(281.902mm,183.827mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row21-3(278.422mm,178.123mm) on Top Layer And Pad D11_LED_Row22-3(283.502mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row22-1(281.902mm,183.827mm) on Top Layer And Pad D11_LED_Row23-1(281.902mm,190.431mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row22-3(283.502mm,184.727mm) on Top Layer And Pad D11_LED_Row23-3(283.502mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row2-3(268.262mm,52.647mm) on Top Layer And Pad D11_LED_Row3-3(268.262mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row23-1(281.902mm,190.431mm) on Top Layer And Pad D11_LED_Row24-1(281.902mm,197.035mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row23-3(283.502mm,191.331mm) on Top Layer And Pad D11_LED_Row24-3(283.502mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row3-1(266.662mm,58.351mm) on Top Layer And Pad D11_LED_Row4-1(266.662mm,64.955mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row3-3(268.262mm,59.251mm) on Top Layer And Pad D11_LED_Row4-3(268.262mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row4-1(266.662mm,64.955mm) on Top Layer And Pad D11_LED_Row5-1(266.662mm,71.559mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row4-3(268.262mm,65.855mm) on Top Layer And Pad D11_LED_Row5-3(268.262mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row5-1(266.662mm,71.559mm) on Top Layer And Pad D11_LED_Row6-1(266.662mm,78.163mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row5-3(268.262mm,72.459mm) on Top Layer And Pad D11_LED_Row6-3(268.262mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row6-1(266.662mm,78.163mm) on Top Layer And Pad D11_LED_Row7-1(266.662mm,84.767mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row6-3(268.262mm,79.063mm) on Top Layer And Pad D11_LED_Row7-3(268.262mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row7-1(266.662mm,84.767mm) on Top Layer And Pad D11_LED_Row8-1(266.662mm,91.371mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row7-3(268.262mm,85.667mm) on Top Layer And Pad D11_LED_Row8-3(268.262mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_32_LED_Row1 Between Pad D11_LED_Row8-1(266.662mm,91.371mm) on Top Layer And Pad D11_LED_Row9-1(266.662mm,97.975mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D11_LED_Row8-3(268.262mm,92.271mm) on Top Layer And Pad D11_LED_Row9-3(268.262mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row12-3(301.282mm,118.687mm) on Top Layer And Pad D12_LED_Row13-3(301.282mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row1-3(117.969mm,35.725mm) on Top Layer And Pad D13_LED_Row1-3(120.895mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row13-3(301.282mm,125.291mm) on Top Layer And Pad D12_LED_Row14-3(301.282mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row14-3(301.282mm,131.895mm) on Top Layer And Pad D12_LED_Row15-3(301.282mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row15-3(301.282mm,138.499mm) on Top Layer And Pad D12_LED_Row16-3(301.282mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row16-3(301.282mm,145.103mm) on Top Layer And Pad D12_LED_Row17-3(301.282mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row17-3(301.282mm,151.707mm) on Top Layer And Pad D12_LED_Row18-3(301.282mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row18-3(301.282mm,158.311mm) on Top Layer And Pad D12_LED_Row19-3(301.282mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row19-3(301.282mm,164.915mm) on Top Layer And Pad D12_LED_Row20-3(304.076mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row22-3(304.076mm,184.727mm) on Top Layer And Pad D12_LED_Row23-3(304.076mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row2-3(287.312mm,52.647mm) on Top Layer And Pad D12_LED_Row3-3(287.312mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row23-3(304.076mm,191.331mm) on Top Layer And Pad D12_LED_Row24-3(304.076mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row3-3(287.312mm,59.251mm) on Top Layer And Pad D12_LED_Row4-3(287.312mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row4-3(287.312mm,65.855mm) on Top Layer And Pad D12_LED_Row5-3(287.312mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row5-3(287.312mm,72.459mm) on Top Layer And Pad D12_LED_Row6-3(287.312mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row6-3(287.312mm,79.063mm) on Top Layer And Pad D12_LED_Row7-3(287.312mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row7-3(287.312mm,85.667mm) on Top Layer And Pad D12_LED_Row8-3(287.312mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D12_LED_Row8-3(287.312mm,92.271mm) on Top Layer And Pad D12_LED_Row9-3(287.312mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row10-3(321.856mm,105.479mm) on Top Layer And Pad D14_LED_Row9-3(325.92mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row12-3(321.856mm,118.687mm) on Top Layer And Pad D13_LED_Row13-3(321.856mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row1-3(120.895mm,35.725mm) on Top Layer And Pad D14_LED_Row1-3(123.821mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row13-3(321.856mm,125.291mm) on Top Layer And Pad D13_LED_Row14-3(321.856mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row14-3(321.856mm,131.895mm) on Top Layer And Pad D13_LED_Row15-3(321.856mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row15-3(321.856mm,138.499mm) on Top Layer And Pad D13_LED_Row16-3(321.856mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row16-3(321.856mm,145.103mm) on Top Layer And Pad D13_LED_Row17-3(321.856mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row17-3(321.856mm,151.707mm) on Top Layer And Pad D13_LED_Row18-3(321.856mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row18-3(321.856mm,158.311mm) on Top Layer And Pad D13_LED_Row19-3(321.856mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row19-3(321.856mm,164.915mm) on Top Layer And Pad D13_LED_Row20-3(324.904mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row22-3(324.904mm,184.727mm) on Top Layer And Pad D13_LED_Row23-3(324.904mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row2-3(306.616mm,52.647mm) on Top Layer And Pad D13_LED_Row3-3(306.616mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row23-3(324.904mm,191.331mm) on Top Layer And Pad D13_LED_Row24-3(324.904mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row3-3(306.616mm,59.251mm) on Top Layer And Pad D13_LED_Row4-3(306.616mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row4-3(306.616mm,65.855mm) on Top Layer And Pad D13_LED_Row5-3(306.616mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row5-3(306.616mm,72.459mm) on Top Layer And Pad D13_LED_Row6-3(306.616mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row6-3(306.616mm,79.063mm) on Top Layer And Pad D13_LED_Row7-3(306.616mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row7-3(306.616mm,85.667mm) on Top Layer And Pad D13_LED_Row8-3(306.616mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D13_LED_Row8-3(306.616mm,92.271mm) on Top Layer And Pad D13_LED_Row9-3(306.616mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row10-3(342.43mm,105.479mm) on Top Layer And Pad D15_LED_Row9-3(345.224mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row12-3(342.43mm,118.687mm) on Top Layer And Pad D14_LED_Row13-3(342.43mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row1-3(123.821mm,35.725mm) on Top Layer And Pad D15_LED_Row1-3(126.747mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row13-3(342.43mm,125.291mm) on Top Layer And Pad D14_LED_Row14-3(342.43mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row14-3(342.43mm,131.895mm) on Top Layer And Pad D14_LED_Row15-3(342.43mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row15-3(342.43mm,138.499mm) on Top Layer And Pad D14_LED_Row16-3(342.43mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row16-3(342.43mm,145.103mm) on Top Layer And Pad D14_LED_Row17-3(342.43mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row17-3(342.43mm,151.707mm) on Top Layer And Pad D14_LED_Row18-3(342.43mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row18-3(342.43mm,158.311mm) on Top Layer And Pad D14_LED_Row19-3(342.43mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row19-3(342.43mm,164.915mm) on Top Layer And Pad D14_LED_Row20-3(345.732mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row22-3(345.732mm,184.727mm) on Top Layer And Pad D14_LED_Row23-3(345.732mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row2-3(325.92mm,52.647mm) on Top Layer And Pad D14_LED_Row3-3(325.92mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row23-3(345.732mm,191.331mm) on Top Layer And Pad D14_LED_Row24-3(345.732mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row3-3(325.92mm,59.251mm) on Top Layer And Pad D14_LED_Row4-3(325.92mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row4-3(325.92mm,65.855mm) on Top Layer And Pad D14_LED_Row5-3(325.92mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row5-3(325.92mm,72.459mm) on Top Layer And Pad D14_LED_Row6-3(325.92mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row6-3(325.92mm,79.063mm) on Top Layer And Pad D14_LED_Row7-3(325.92mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row7-3(325.92mm,85.667mm) on Top Layer And Pad D14_LED_Row8-3(325.92mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D14_LED_Row8-3(325.92mm,92.271mm) on Top Layer And Pad D14_LED_Row9-3(325.92mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row10-3(363.004mm,105.479mm) on Top Layer And Pad D16_LED_Row9-3(364.528mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row12-3(363.004mm,118.687mm) on Top Layer And Pad D15_LED_Row13-3(363.004mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row1-3(126.747mm,35.725mm) on Top Layer And Pad D16_LED_Row1-3(129.674mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row13-3(363.004mm,125.291mm) on Top Layer And Pad D15_LED_Row14-3(363.004mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row14-3(363.004mm,131.895mm) on Top Layer And Pad D15_LED_Row15-3(363.004mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row15-3(363.004mm,138.499mm) on Top Layer And Pad D15_LED_Row16-3(363.004mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row16-3(363.004mm,145.103mm) on Top Layer And Pad D15_LED_Row17-3(363.004mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row17-3(363.004mm,151.707mm) on Top Layer And Pad D15_LED_Row18-3(363.004mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row18-3(363.004mm,158.311mm) on Top Layer And Pad D15_LED_Row19-3(363.004mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row19-3(363.004mm,164.915mm) on Top Layer And Pad D15_LED_Row20-3(366.56mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row22-3(366.56mm,184.727mm) on Top Layer And Pad D15_LED_Row23-3(366.56mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row2-3(345.224mm,52.647mm) on Top Layer And Pad D15_LED_Row3-3(345.224mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row23-3(366.56mm,191.331mm) on Top Layer And Pad D15_LED_Row24-3(366.56mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row3-3(345.224mm,59.251mm) on Top Layer And Pad D15_LED_Row4-3(345.224mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row4-3(345.224mm,65.855mm) on Top Layer And Pad D15_LED_Row5-3(345.224mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row5-3(345.224mm,72.459mm) on Top Layer And Pad D15_LED_Row6-3(345.224mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row6-3(345.224mm,79.063mm) on Top Layer And Pad D15_LED_Row7-3(345.224mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row7-3(345.224mm,85.667mm) on Top Layer And Pad D15_LED_Row8-3(345.224mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D15_LED_Row8-3(345.224mm,92.271mm) on Top Layer And Pad D15_LED_Row9-3(345.224mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row12-3(383.578mm,118.687mm) on Top Layer And Pad D16_LED_Row13-3(383.578mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row13-3(383.578mm,125.291mm) on Top Layer And Pad D16_LED_Row14-3(383.578mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row14-3(383.578mm,131.895mm) on Top Layer And Pad D16_LED_Row15-3(383.578mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row15-3(383.578mm,138.499mm) on Top Layer And Pad D16_LED_Row16-3(383.578mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row16-3(383.578mm,145.103mm) on Top Layer And Pad D16_LED_Row17-3(383.578mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row17-3(383.578mm,151.707mm) on Top Layer And Pad D16_LED_Row18-3(383.578mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row18-3(383.578mm,158.311mm) on Top Layer And Pad D16_LED_Row19-3(383.578mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row19-3(383.578mm,164.915mm) on Top Layer And Pad D16_LED_Row20-3(387.388mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row22-3(387.388mm,184.727mm) on Top Layer And Pad D16_LED_Row23-3(387.388mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row2-3(364.528mm,52.647mm) on Top Layer And Pad D16_LED_Row3-3(364.528mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row23-3(387.388mm,191.331mm) on Top Layer And Pad D16_LED_Row24-3(387.388mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row3-3(364.528mm,59.251mm) on Top Layer And Pad D16_LED_Row4-3(364.528mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row4-3(364.528mm,65.855mm) on Top Layer And Pad D16_LED_Row5-3(364.528mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row5-3(364.528mm,72.459mm) on Top Layer And Pad D16_LED_Row6-3(364.528mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row6-3(364.528mm,79.063mm) on Top Layer And Pad D16_LED_Row7-3(364.528mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row7-3(364.528mm,85.667mm) on Top Layer And Pad D16_LED_Row8-3(364.528mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D16_LED_Row8-3(364.528mm,92.271mm) on Top Layer And Pad D16_LED_Row9-3(364.528mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row11-1(103.975mm,111.183mm) on Top Layer And Pad D2_LED_Row10-1(104.483mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row9-1(103.213mm,97.975mm) on Top Layer And Pad D2_LED_Row10-1(104.483mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row11-2(103.975mm,112.083mm) on Top Layer And Pad D2_LED_Row10-2(104.483mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row9-2(103.213mm,98.875mm) on Top Layer And Pad D2_LED_Row10-2(104.483mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row11-3(105.575mm,112.083mm) on Top Layer And Pad D2_LED_Row10-3(106.083mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row9-3(104.813mm,98.875mm) on Top Layer And Pad D2_LED_Row10-3(106.083mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row1-1(89.609mm,34.125mm) on Top Layer And Pad D2_LED_Row2-1(103.213mm,51.747mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row11-1(103.975mm,111.183mm) on Top Layer And Pad D2_LED_Row12-1(104.483mm,117.787mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row11-2(103.975mm,112.083mm) on Top Layer And Pad D2_LED_Row12-2(104.483mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row11-3(105.575mm,112.083mm) on Top Layer And Pad D2_LED_Row12-3(106.083mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row1-2(88.709mm,34.125mm) on Top Layer And Pad D2_LED_Row2-2(103.213mm,52.647mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row12-1(104.483mm,117.787mm) on Top Layer And Pad D2_LED_Row13-1(104.483mm,124.391mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row12-2(104.483mm,118.687mm) on Top Layer And Pad D2_LED_Row13-2(104.483mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row12-3(106.083mm,118.687mm) on Top Layer And Pad D2_LED_Row13-3(106.083mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row1-3(88.709mm,35.725mm) on Top Layer And Pad D3_LED_Row1-3(91.635mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row13-1(104.483mm,124.391mm) on Top Layer And Pad D2_LED_Row14-1(104.483mm,130.995mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row13-2(104.483mm,125.291mm) on Top Layer And Pad D2_LED_Row14-2(104.483mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row13-3(106.083mm,125.291mm) on Top Layer And Pad D2_LED_Row14-3(106.083mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row14-1(104.483mm,130.995mm) on Top Layer And Pad D2_LED_Row15-1(104.483mm,137.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row14-2(104.483mm,131.895mm) on Top Layer And Pad D2_LED_Row15-2(104.483mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row14-3(106.083mm,131.895mm) on Top Layer And Pad D2_LED_Row15-3(106.083mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row15-1(104.483mm,137.599mm) on Top Layer And Pad D2_LED_Row16-1(104.483mm,144.203mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row15-2(104.483mm,138.499mm) on Top Layer And Pad D2_LED_Row16-2(104.483mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row15-3(106.083mm,138.499mm) on Top Layer And Pad D2_LED_Row16-3(106.083mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row16-1(104.483mm,144.203mm) on Top Layer And Pad D2_LED_Row17-1(104.483mm,150.807mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row16-2(104.483mm,145.103mm) on Top Layer And Pad D2_LED_Row17-2(104.483mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row16-3(106.083mm,145.103mm) on Top Layer And Pad D2_LED_Row17-3(106.083mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row17-1(104.483mm,150.807mm) on Top Layer And Pad D2_LED_Row18-1(104.483mm,157.411mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row17-2(104.483mm,151.707mm) on Top Layer And Pad D2_LED_Row18-2(104.483mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row17-3(106.083mm,151.707mm) on Top Layer And Pad D2_LED_Row18-3(106.083mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row18-1(104.483mm,157.411mm) on Top Layer And Pad D2_LED_Row19-1(104.483mm,164.015mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row18-2(104.483mm,158.311mm) on Top Layer And Pad D2_LED_Row19-2(104.483mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row18-3(106.083mm,158.311mm) on Top Layer And Pad D2_LED_Row19-3(106.083mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row19-1(104.483mm,164.015mm) on Top Layer And Pad D2_LED_Row20-1(104.737mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row19-2(104.483mm,164.915mm) on Top Layer And Pad D2_LED_Row20-2(104.737mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row19-3(106.083mm,164.915mm) on Top Layer And Pad D2_LED_Row20-3(106.337mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row21-1(104.229mm,177.223mm) on Top Layer And Pad D2_LED_Row20-1(104.737mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row21-2(104.229mm,178.123mm) on Top Layer And Pad D2_LED_Row20-2(104.737mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row21-3(105.829mm,178.123mm) on Top Layer And Pad D2_LED_Row20-3(106.337mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row2-1(103.213mm,51.747mm) on Top Layer And Pad D2_LED_Row3-1(103.213mm,58.351mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row21-1(104.229mm,177.223mm) on Top Layer And Pad D2_LED_Row22-1(104.737mm,183.827mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row21-2(104.229mm,178.123mm) on Top Layer And Pad D2_LED_Row22-2(104.737mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row21-3(105.829mm,178.123mm) on Top Layer And Pad D2_LED_Row22-3(106.337mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row2-2(103.213mm,52.647mm) on Top Layer And Pad D2_LED_Row3-2(103.213mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row22-1(104.737mm,183.827mm) on Top Layer And Pad D2_LED_Row23-1(104.737mm,190.431mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row22-2(104.737mm,184.727mm) on Top Layer And Pad D2_LED_Row23-2(104.737mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row22-3(106.337mm,184.727mm) on Top Layer And Pad D2_LED_Row23-3(106.337mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row2-3(104.813mm,52.647mm) on Top Layer And Pad D2_LED_Row3-3(104.813mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row23-1(104.737mm,190.431mm) on Top Layer And Pad D2_LED_Row24-1(104.737mm,197.035mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row23-2(104.737mm,191.331mm) on Top Layer And Pad D2_LED_Row24-2(104.737mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row23-3(106.337mm,191.331mm) on Top Layer And Pad D2_LED_Row24-3(106.337mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row3-1(103.213mm,58.351mm) on Top Layer And Pad D2_LED_Row4-1(103.213mm,64.955mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row3-2(103.213mm,59.251mm) on Top Layer And Pad D2_LED_Row4-2(103.213mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row3-3(104.813mm,59.251mm) on Top Layer And Pad D2_LED_Row4-3(104.813mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row4-1(103.213mm,64.955mm) on Top Layer And Pad D2_LED_Row5-1(103.213mm,71.559mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row4-2(103.213mm,65.855mm) on Top Layer And Pad D2_LED_Row5-2(103.213mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row4-3(104.813mm,65.855mm) on Top Layer And Pad D2_LED_Row5-3(104.813mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row5-1(103.213mm,71.559mm) on Top Layer And Pad D2_LED_Row6-1(103.213mm,78.163mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row5-2(103.213mm,72.459mm) on Top Layer And Pad D2_LED_Row6-2(103.213mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row5-3(104.813mm,72.459mm) on Top Layer And Pad D2_LED_Row6-3(104.813mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row6-1(103.213mm,78.163mm) on Top Layer And Pad D2_LED_Row7-1(103.213mm,84.767mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row6-2(103.213mm,79.063mm) on Top Layer And Pad D2_LED_Row7-2(103.213mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row6-3(104.813mm,79.063mm) on Top Layer And Pad D2_LED_Row7-3(104.813mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row7-1(103.213mm,84.767mm) on Top Layer And Pad D2_LED_Row8-1(103.213mm,91.371mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row7-2(103.213mm,85.667mm) on Top Layer And Pad D2_LED_Row8-2(103.213mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row7-3(104.813mm,85.667mm) on Top Layer And Pad D2_LED_Row8-3(104.813mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_5_LED_Row1 Between Pad D2_LED_Row8-1(103.213mm,91.371mm) on Top Layer And Pad D2_LED_Row9-1(103.213mm,97.975mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_4_LED_Row1 Between Pad D2_LED_Row8-2(103.213mm,92.271mm) on Top Layer And Pad D2_LED_Row9-2(103.213mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D2_LED_Row8-3(104.813mm,92.271mm) on Top Layer And Pad D2_LED_Row9-3(104.813mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row11-3(124.371mm,112.083mm) on Top Layer And Pad D3_LED_Row10-3(125.387mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row9-3(122.847mm,98.875mm) on Top Layer And Pad D3_LED_Row10-3(125.387mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row11-3(124.371mm,112.083mm) on Top Layer And Pad D3_LED_Row12-3(125.387mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row12-3(125.387mm,118.687mm) on Top Layer And Pad D3_LED_Row13-3(125.387mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row1-3(91.635mm,35.725mm) on Top Layer And Pad D4_LED_Row1-3(94.561mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row13-3(125.387mm,125.291mm) on Top Layer And Pad D3_LED_Row14-3(125.387mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row14-3(125.387mm,131.895mm) on Top Layer And Pad D3_LED_Row15-3(125.387mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row15-3(125.387mm,138.499mm) on Top Layer And Pad D3_LED_Row16-3(125.387mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row16-3(125.387mm,145.103mm) on Top Layer And Pad D3_LED_Row17-3(125.387mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row17-3(125.387mm,151.707mm) on Top Layer And Pad D3_LED_Row18-3(125.387mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row18-3(125.387mm,158.311mm) on Top Layer And Pad D3_LED_Row19-3(125.387mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row19-3(125.387mm,164.915mm) on Top Layer And Pad D3_LED_Row20-3(125.895mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row21-3(124.879mm,178.123mm) on Top Layer And Pad D3_LED_Row20-3(125.895mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row21-3(124.879mm,178.123mm) on Top Layer And Pad D3_LED_Row22-3(125.895mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row22-3(125.895mm,184.727mm) on Top Layer And Pad D3_LED_Row23-3(125.895mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row2-3(122.847mm,52.647mm) on Top Layer And Pad D3_LED_Row3-3(122.847mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row23-3(125.895mm,191.331mm) on Top Layer And Pad D3_LED_Row24-3(125.895mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row3-3(122.847mm,59.251mm) on Top Layer And Pad D3_LED_Row4-3(122.847mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row4-3(122.847mm,65.855mm) on Top Layer And Pad D3_LED_Row5-3(122.847mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row5-3(122.847mm,72.459mm) on Top Layer And Pad D3_LED_Row6-3(122.847mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row6-3(122.847mm,79.063mm) on Top Layer And Pad D3_LED_Row7-3(122.847mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row7-3(122.847mm,85.667mm) on Top Layer And Pad D3_LED_Row8-3(122.847mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D3_LED_Row8-3(122.847mm,92.271mm) on Top Layer And Pad D3_LED_Row9-3(122.847mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row11-3(143.167mm,112.083mm) on Top Layer And Pad D4_LED_Row10-3(144.691mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row9-3(140.881mm,98.875mm) on Top Layer And Pad D4_LED_Row10-3(144.691mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row11-3(143.167mm,112.083mm) on Top Layer And Pad D4_LED_Row12-3(144.691mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row12-3(144.691mm,118.687mm) on Top Layer And Pad D4_LED_Row13-3(144.691mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row1-3(94.561mm,35.725mm) on Top Layer And Pad D5_LED_Row1-3(97.487mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row13-3(144.691mm,125.291mm) on Top Layer And Pad D4_LED_Row14-3(144.691mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row14-3(144.691mm,131.895mm) on Top Layer And Pad D4_LED_Row15-3(144.691mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row15-3(144.691mm,138.499mm) on Top Layer And Pad D4_LED_Row16-3(144.691mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row16-3(144.691mm,145.103mm) on Top Layer And Pad D4_LED_Row17-3(144.691mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row17-3(144.691mm,151.707mm) on Top Layer And Pad D4_LED_Row18-3(144.691mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row18-3(144.691mm,158.311mm) on Top Layer And Pad D4_LED_Row19-3(144.691mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row19-3(144.691mm,164.915mm) on Top Layer And Pad D4_LED_Row20-3(145.453mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row21-3(143.929mm,178.123mm) on Top Layer And Pad D4_LED_Row20-3(145.453mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row21-3(143.929mm,178.123mm) on Top Layer And Pad D4_LED_Row22-3(145.453mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row22-3(145.453mm,184.727mm) on Top Layer And Pad D4_LED_Row23-3(145.453mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row2-3(140.881mm,52.647mm) on Top Layer And Pad D4_LED_Row3-3(140.881mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row23-3(145.453mm,191.331mm) on Top Layer And Pad D4_LED_Row24-3(145.453mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row3-3(140.881mm,59.251mm) on Top Layer And Pad D4_LED_Row4-3(140.881mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row4-3(140.881mm,65.855mm) on Top Layer And Pad D4_LED_Row5-3(140.881mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row5-3(140.881mm,72.459mm) on Top Layer And Pad D4_LED_Row6-3(140.881mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row6-3(140.881mm,79.063mm) on Top Layer And Pad D4_LED_Row7-3(140.881mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row7-3(140.881mm,85.667mm) on Top Layer And Pad D4_LED_Row8-3(140.881mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D4_LED_Row8-3(140.881mm,92.271mm) on Top Layer And Pad D4_LED_Row9-3(140.881mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row11-3(161.963mm,112.083mm) on Top Layer And Pad D5_LED_Row10-3(163.995mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row9-3(158.915mm,98.875mm) on Top Layer And Pad D5_LED_Row10-3(163.995mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row11-4(161.963mm,111.183mm) on Top Layer And Pad D5_LED_Row10-4(163.995mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row9-4(158.915mm,97.975mm) on Top Layer And Pad D5_LED_Row10-4(163.995mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row11-3(161.963mm,112.083mm) on Top Layer And Pad D5_LED_Row12-3(163.995mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row11-4(161.963mm,111.183mm) on Top Layer And Pad D5_LED_Row12-4(163.995mm,117.787mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row12-3(163.995mm,118.687mm) on Top Layer And Pad D5_LED_Row13-3(163.995mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row12-4(163.995mm,117.787mm) on Top Layer And Pad D5_LED_Row13-4(163.995mm,124.391mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row1-3(97.487mm,35.725mm) on Top Layer And Pad D6_LED_Row1-3(100.413mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row13-3(163.995mm,125.291mm) on Top Layer And Pad D5_LED_Row14-3(163.995mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row13-4(163.995mm,124.391mm) on Top Layer And Pad D5_LED_Row14-4(163.995mm,130.995mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row1-4(98.387mm,35.725mm) on Top Layer And Pad D5_LED_Row2-4(158.915mm,51.747mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row14-3(163.995mm,131.895mm) on Top Layer And Pad D5_LED_Row15-3(163.995mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row14-4(163.995mm,130.995mm) on Top Layer And Pad D5_LED_Row15-4(163.995mm,137.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row15-3(163.995mm,138.499mm) on Top Layer And Pad D5_LED_Row16-3(163.995mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row15-4(163.995mm,137.599mm) on Top Layer And Pad D5_LED_Row16-4(163.995mm,144.203mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row16-3(163.995mm,145.103mm) on Top Layer And Pad D5_LED_Row17-3(163.995mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row16-4(163.995mm,144.203mm) on Top Layer And Pad D5_LED_Row17-4(163.995mm,150.807mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row17-3(163.995mm,151.707mm) on Top Layer And Pad D5_LED_Row18-3(163.995mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row17-4(163.995mm,150.807mm) on Top Layer And Pad D5_LED_Row18-4(163.995mm,157.411mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row18-3(163.995mm,158.311mm) on Top Layer And Pad D5_LED_Row19-3(163.995mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row18-4(163.995mm,157.411mm) on Top Layer And Pad D5_LED_Row19-4(163.995mm,164.015mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row19-3(163.995mm,164.915mm) on Top Layer And Pad D5_LED_Row20-3(165.011mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row19-4(163.995mm,164.015mm) on Top Layer And Pad D5_LED_Row20-4(165.011mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row21-3(162.979mm,178.123mm) on Top Layer And Pad D5_LED_Row20-3(165.011mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row21-4(162.979mm,177.223mm) on Top Layer And Pad D5_LED_Row20-4(165.011mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row21-3(162.979mm,178.123mm) on Top Layer And Pad D5_LED_Row22-3(165.011mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row21-4(162.979mm,177.223mm) on Top Layer And Pad D5_LED_Row22-4(165.011mm,183.827mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row22-3(165.011mm,184.727mm) on Top Layer And Pad D5_LED_Row23-3(165.011mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row22-4(165.011mm,183.827mm) on Top Layer And Pad D5_LED_Row23-4(165.011mm,190.431mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row2-3(158.915mm,52.647mm) on Top Layer And Pad D5_LED_Row3-3(158.915mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row23-3(165.011mm,191.331mm) on Top Layer And Pad D5_LED_Row24-3(165.011mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row23-4(165.011mm,190.431mm) on Top Layer And Pad D5_LED_Row24-4(165.011mm,197.035mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row2-4(158.915mm,51.747mm) on Top Layer And Pad D5_LED_Row3-4(158.915mm,58.351mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row3-3(158.915mm,59.251mm) on Top Layer And Pad D5_LED_Row4-3(158.915mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row3-4(158.915mm,58.351mm) on Top Layer And Pad D5_LED_Row4-4(158.915mm,64.955mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row4-3(158.915mm,65.855mm) on Top Layer And Pad D5_LED_Row5-3(158.915mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row4-4(158.915mm,64.955mm) on Top Layer And Pad D5_LED_Row5-4(158.915mm,71.559mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row5-3(158.915mm,72.459mm) on Top Layer And Pad D5_LED_Row6-3(158.915mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row5-4(158.915mm,71.559mm) on Top Layer And Pad D5_LED_Row6-4(158.915mm,78.163mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row6-3(158.915mm,79.063mm) on Top Layer And Pad D5_LED_Row7-3(158.915mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row6-4(158.915mm,78.163mm) on Top Layer And Pad D5_LED_Row7-4(158.915mm,84.767mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row7-3(158.915mm,85.667mm) on Top Layer And Pad D5_LED_Row8-3(158.915mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row7-4(158.915mm,84.767mm) on Top Layer And Pad D5_LED_Row8-4(158.915mm,91.371mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D5_LED_Row8-3(158.915mm,92.271mm) on Top Layer And Pad D5_LED_Row9-3(158.915mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_15_LED_Row1 Between Pad D5_LED_Row8-4(158.915mm,91.371mm) on Top Layer And Pad D5_LED_Row9-4(158.915mm,97.975mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row11-3(180.759mm,112.083mm) on Top Layer And Pad D6_LED_Row10-3(183.299mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row11-4(180.759mm,111.183mm) on Top Layer And Pad D6_LED_Row10-4(183.299mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row9-4(176.949mm,97.975mm) on Top Layer And Pad D6_LED_Row10-4(183.299mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row11-3(180.759mm,112.083mm) on Top Layer And Pad D6_LED_Row12-3(183.299mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row11-4(180.759mm,111.183mm) on Top Layer And Pad D6_LED_Row12-4(183.299mm,117.787mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row12-3(183.299mm,118.687mm) on Top Layer And Pad D6_LED_Row13-3(183.299mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row12-4(183.299mm,117.787mm) on Top Layer And Pad D6_LED_Row13-4(183.299mm,124.391mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row1-3(100.413mm,35.725mm) on Top Layer And Pad D7_LED_Row1-3(103.339mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row13-3(183.299mm,125.291mm) on Top Layer And Pad D6_LED_Row14-3(183.299mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row13-4(183.299mm,124.391mm) on Top Layer And Pad D6_LED_Row14-4(183.299mm,130.995mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row1-4(101.313mm,35.725mm) on Top Layer And Pad D6_LED_Row2-4(176.949mm,51.747mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row14-3(183.299mm,131.895mm) on Top Layer And Pad D6_LED_Row15-3(183.299mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row14-4(183.299mm,130.995mm) on Top Layer And Pad D6_LED_Row15-4(183.299mm,137.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row15-3(183.299mm,138.499mm) on Top Layer And Pad D6_LED_Row16-3(183.299mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row15-4(183.299mm,137.599mm) on Top Layer And Pad D6_LED_Row16-4(183.299mm,144.203mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row16-3(183.299mm,145.103mm) on Top Layer And Pad D6_LED_Row17-3(183.299mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row16-4(183.299mm,144.203mm) on Top Layer And Pad D6_LED_Row17-4(183.299mm,150.807mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row17-3(183.299mm,151.707mm) on Top Layer And Pad D6_LED_Row18-3(183.299mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row17-4(183.299mm,150.807mm) on Top Layer And Pad D6_LED_Row18-4(183.299mm,157.411mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row18-3(183.299mm,158.311mm) on Top Layer And Pad D6_LED_Row19-3(183.299mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row18-4(183.299mm,157.411mm) on Top Layer And Pad D6_LED_Row19-4(183.299mm,164.015mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row19-3(183.299mm,164.915mm) on Top Layer And Pad D6_LED_Row20-3(184.569mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row19-4(183.299mm,164.015mm) on Top Layer And Pad D6_LED_Row20-4(184.569mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row21-3(182.029mm,178.123mm) on Top Layer And Pad D6_LED_Row20-3(184.569mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row21-4(182.029mm,177.223mm) on Top Layer And Pad D6_LED_Row20-4(184.569mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row21-3(182.029mm,178.123mm) on Top Layer And Pad D6_LED_Row22-3(184.569mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row21-4(182.029mm,177.223mm) on Top Layer And Pad D6_LED_Row22-4(184.569mm,183.827mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row22-3(184.569mm,184.727mm) on Top Layer And Pad D6_LED_Row23-3(184.569mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row22-4(184.569mm,183.827mm) on Top Layer And Pad D6_LED_Row23-4(184.569mm,190.431mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row2-3(176.949mm,52.647mm) on Top Layer And Pad D6_LED_Row3-3(176.949mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row23-3(184.569mm,191.331mm) on Top Layer And Pad D6_LED_Row24-3(184.569mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row23-4(184.569mm,190.431mm) on Top Layer And Pad D6_LED_Row24-4(184.569mm,197.035mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row2-4(176.949mm,51.747mm) on Top Layer And Pad D6_LED_Row3-4(176.949mm,58.351mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row3-3(176.949mm,59.251mm) on Top Layer And Pad D6_LED_Row4-3(176.949mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row3-4(176.949mm,58.351mm) on Top Layer And Pad D6_LED_Row4-4(176.949mm,64.955mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row4-3(176.949mm,65.855mm) on Top Layer And Pad D6_LED_Row5-3(176.949mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row4-4(176.949mm,64.955mm) on Top Layer And Pad D6_LED_Row5-4(176.949mm,71.559mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row5-3(176.949mm,72.459mm) on Top Layer And Pad D6_LED_Row6-3(176.949mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row5-4(176.949mm,71.559mm) on Top Layer And Pad D6_LED_Row6-4(176.949mm,78.163mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row6-3(176.949mm,79.063mm) on Top Layer And Pad D6_LED_Row7-3(176.949mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row6-4(176.949mm,78.163mm) on Top Layer And Pad D6_LED_Row7-4(176.949mm,84.767mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row7-3(176.949mm,85.667mm) on Top Layer And Pad D6_LED_Row8-3(176.949mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row7-4(176.949mm,84.767mm) on Top Layer And Pad D6_LED_Row8-4(176.949mm,91.371mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D6_LED_Row8-3(176.949mm,92.271mm) on Top Layer And Pad D6_LED_Row9-3(176.949mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_18_LED_Row1 Between Pad D6_LED_Row8-4(176.949mm,91.371mm) on Top Layer And Pad D6_LED_Row9-4(176.949mm,97.975mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row11-3(199.555mm,112.083mm) on Top Layer And Pad D7_LED_Row10-3(202.603mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row11-4(199.555mm,111.183mm) on Top Layer And Pad D7_LED_Row10-4(202.603mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row9-4(194.983mm,97.975mm) on Top Layer And Pad D7_LED_Row10-4(202.603mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row11-3(199.555mm,112.083mm) on Top Layer And Pad D7_LED_Row12-3(202.603mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row11-4(199.555mm,111.183mm) on Top Layer And Pad D7_LED_Row12-4(202.603mm,117.787mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row12-3(202.603mm,118.687mm) on Top Layer And Pad D7_LED_Row13-3(202.603mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row12-4(202.603mm,117.787mm) on Top Layer And Pad D7_LED_Row13-4(202.603mm,124.391mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row1-3(103.339mm,35.725mm) on Top Layer And Pad D8_LED_Row1-3(106.265mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row13-3(202.603mm,125.291mm) on Top Layer And Pad D7_LED_Row14-3(202.603mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row13-4(202.603mm,124.391mm) on Top Layer And Pad D7_LED_Row14-4(202.603mm,130.995mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row1-4(104.239mm,35.725mm) on Top Layer And Pad D7_LED_Row2-4(194.983mm,51.747mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row14-3(202.603mm,131.895mm) on Top Layer And Pad D7_LED_Row15-3(202.603mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row14-4(202.603mm,130.995mm) on Top Layer And Pad D7_LED_Row15-4(202.603mm,137.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row15-3(202.603mm,138.499mm) on Top Layer And Pad D7_LED_Row16-3(202.603mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row15-4(202.603mm,137.599mm) on Top Layer And Pad D7_LED_Row16-4(202.603mm,144.203mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row16-3(202.603mm,145.103mm) on Top Layer And Pad D7_LED_Row17-3(202.603mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row16-4(202.603mm,144.203mm) on Top Layer And Pad D7_LED_Row17-4(202.603mm,150.807mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row17-3(202.603mm,151.707mm) on Top Layer And Pad D7_LED_Row18-3(202.603mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row17-4(202.603mm,150.807mm) on Top Layer And Pad D7_LED_Row18-4(202.603mm,157.411mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row18-3(202.603mm,158.311mm) on Top Layer And Pad D7_LED_Row19-3(202.603mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row18-4(202.603mm,157.411mm) on Top Layer And Pad D7_LED_Row19-4(202.603mm,164.015mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row19-3(202.603mm,164.915mm) on Top Layer And Pad D7_LED_Row20-3(204.127mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row19-4(202.603mm,164.015mm) on Top Layer And Pad D7_LED_Row20-4(204.127mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row21-3(201.079mm,178.123mm) on Top Layer And Pad D7_LED_Row20-3(204.127mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row21-4(201.079mm,177.223mm) on Top Layer And Pad D7_LED_Row20-4(204.127mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row21-3(201.079mm,178.123mm) on Top Layer And Pad D7_LED_Row22-3(204.127mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row21-4(201.079mm,177.223mm) on Top Layer And Pad D7_LED_Row22-4(204.127mm,183.827mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row22-3(204.127mm,184.727mm) on Top Layer And Pad D7_LED_Row23-3(204.127mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row22-4(204.127mm,183.827mm) on Top Layer And Pad D7_LED_Row23-4(204.127mm,190.431mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row2-3(194.983mm,52.647mm) on Top Layer And Pad D7_LED_Row3-3(194.983mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row23-3(204.127mm,191.331mm) on Top Layer And Pad D7_LED_Row24-3(204.127mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row23-4(204.127mm,190.431mm) on Top Layer And Pad D7_LED_Row24-4(204.127mm,197.035mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row2-4(194.983mm,51.747mm) on Top Layer And Pad D7_LED_Row3-4(194.983mm,58.351mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row3-3(194.983mm,59.251mm) on Top Layer And Pad D7_LED_Row4-3(194.983mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row3-4(194.983mm,58.351mm) on Top Layer And Pad D7_LED_Row4-4(194.983mm,64.955mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row4-3(194.983mm,65.855mm) on Top Layer And Pad D7_LED_Row5-3(194.983mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row4-4(194.983mm,64.955mm) on Top Layer And Pad D7_LED_Row5-4(194.983mm,71.559mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row5-3(194.983mm,72.459mm) on Top Layer And Pad D7_LED_Row6-3(194.983mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row5-4(194.983mm,71.559mm) on Top Layer And Pad D7_LED_Row6-4(194.983mm,78.163mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row6-3(194.983mm,79.063mm) on Top Layer And Pad D7_LED_Row7-3(194.983mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row6-4(194.983mm,78.163mm) on Top Layer And Pad D7_LED_Row7-4(194.983mm,84.767mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row7-3(194.983mm,85.667mm) on Top Layer And Pad D7_LED_Row8-3(194.983mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row7-4(194.983mm,84.767mm) on Top Layer And Pad D7_LED_Row8-4(194.983mm,91.371mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D7_LED_Row8-3(194.983mm,92.271mm) on Top Layer And Pad D7_LED_Row9-3(194.983mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_21_LED_Row1 Between Pad D7_LED_Row8-4(194.983mm,91.371mm) on Top Layer And Pad D7_LED_Row9-4(194.983mm,97.975mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row11-3(218.351mm,112.083mm) on Top Layer And Pad D8_LED_Row10-3(221.907mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row11-3(218.351mm,112.083mm) on Top Layer And Pad D8_LED_Row12-3(221.907mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row12-3(221.907mm,118.687mm) on Top Layer And Pad D8_LED_Row13-3(221.907mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row1-3(106.265mm,35.725mm) on Top Layer And Pad D9_LED_Row1-3(109.191mm,35.725mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row13-3(221.907mm,125.291mm) on Top Layer And Pad D8_LED_Row14-3(221.907mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row14-3(221.907mm,131.895mm) on Top Layer And Pad D8_LED_Row15-3(221.907mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row15-3(221.907mm,138.499mm) on Top Layer And Pad D8_LED_Row16-3(221.907mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row16-3(221.907mm,145.103mm) on Top Layer And Pad D8_LED_Row17-3(221.907mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row17-3(221.907mm,151.707mm) on Top Layer And Pad D8_LED_Row18-3(221.907mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row18-3(221.907mm,158.311mm) on Top Layer And Pad D8_LED_Row19-3(221.907mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row19-3(221.907mm,164.915mm) on Top Layer And Pad D8_LED_Row20-3(223.685mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row21-3(220.129mm,178.123mm) on Top Layer And Pad D8_LED_Row20-3(223.685mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row21-3(220.129mm,178.123mm) on Top Layer And Pad D8_LED_Row22-3(223.685mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row22-3(223.685mm,184.727mm) on Top Layer And Pad D8_LED_Row23-3(223.685mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row2-3(213.017mm,52.647mm) on Top Layer And Pad D8_LED_Row3-3(213.017mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row23-3(223.685mm,191.331mm) on Top Layer And Pad D8_LED_Row24-3(223.685mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row3-3(213.017mm,59.251mm) on Top Layer And Pad D8_LED_Row4-3(213.017mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row4-3(213.017mm,65.855mm) on Top Layer And Pad D8_LED_Row5-3(213.017mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row5-3(213.017mm,72.459mm) on Top Layer And Pad D8_LED_Row6-3(213.017mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row6-3(213.017mm,79.063mm) on Top Layer And Pad D8_LED_Row7-3(213.017mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row7-3(213.017mm,85.667mm) on Top Layer And Pad D8_LED_Row8-3(213.017mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D8_LED_Row8-3(213.017mm,92.271mm) on Top Layer And Pad D8_LED_Row9-3(213.017mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row11-3(237.147mm,112.083mm) on Top Layer And Pad D9_LED_Row10-3(241.211mm,105.479mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row11-4(237.147mm,111.183mm) on Top Layer And Pad D9_LED_Row10-4(241.211mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row9-4(231.051mm,97.975mm) on Top Layer And Pad D9_LED_Row10-4(241.211mm,104.579mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row11-3(237.147mm,112.083mm) on Top Layer And Pad D9_LED_Row12-3(241.211mm,118.687mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row11-4(237.147mm,111.183mm) on Top Layer And Pad D9_LED_Row12-4(241.211mm,117.787mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row12-3(241.211mm,118.687mm) on Top Layer And Pad D9_LED_Row13-3(241.211mm,125.291mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row12-4(241.211mm,117.787mm) on Top Layer And Pad D9_LED_Row13-4(241.211mm,124.391mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row13-3(241.211mm,125.291mm) on Top Layer And Pad D9_LED_Row14-3(241.211mm,131.895mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row13-4(241.211mm,124.391mm) on Top Layer And Pad D9_LED_Row14-4(241.211mm,130.995mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row1-4(110.091mm,35.725mm) on Top Layer And Pad D9_LED_Row2-4(231.051mm,51.747mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row14-3(241.211mm,131.895mm) on Top Layer And Pad D9_LED_Row15-3(241.211mm,138.499mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row14-4(241.211mm,130.995mm) on Top Layer And Pad D9_LED_Row15-4(241.211mm,137.599mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row15-3(241.211mm,138.499mm) on Top Layer And Pad D9_LED_Row16-3(241.211mm,145.103mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row15-4(241.211mm,137.599mm) on Top Layer And Pad D9_LED_Row16-4(241.211mm,144.203mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row16-3(241.211mm,145.103mm) on Top Layer And Pad D9_LED_Row17-3(241.211mm,151.707mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row16-4(241.211mm,144.203mm) on Top Layer And Pad D9_LED_Row17-4(241.211mm,150.807mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row17-3(241.211mm,151.707mm) on Top Layer And Pad D9_LED_Row18-3(241.211mm,158.311mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row17-4(241.211mm,150.807mm) on Top Layer And Pad D9_LED_Row18-4(241.211mm,157.411mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row18-3(241.211mm,158.311mm) on Top Layer And Pad D9_LED_Row19-3(241.211mm,164.915mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row18-4(241.211mm,157.411mm) on Top Layer And Pad D9_LED_Row19-4(241.211mm,164.015mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row19-3(241.211mm,164.915mm) on Top Layer And Pad D9_LED_Row20-3(243.243mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row19-4(241.211mm,164.015mm) on Top Layer And Pad D9_LED_Row20-4(243.243mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row21-3(239.179mm,178.123mm) on Top Layer And Pad D9_LED_Row20-3(243.243mm,171.519mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row21-4(239.179mm,177.223mm) on Top Layer And Pad D9_LED_Row20-4(243.243mm,170.619mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row21-3(239.179mm,178.123mm) on Top Layer And Pad D9_LED_Row22-3(243.243mm,184.727mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row21-4(239.179mm,177.223mm) on Top Layer And Pad D9_LED_Row22-4(243.243mm,183.827mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row22-3(243.243mm,184.727mm) on Top Layer And Pad D9_LED_Row23-3(243.243mm,191.331mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row22-4(243.243mm,183.827mm) on Top Layer And Pad D9_LED_Row23-4(243.243mm,190.431mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row2-3(231.051mm,52.647mm) on Top Layer And Pad D9_LED_Row3-3(231.051mm,59.251mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row23-3(243.243mm,191.331mm) on Top Layer And Pad D9_LED_Row24-3(243.243mm,197.935mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row23-4(243.243mm,190.431mm) on Top Layer And Pad D9_LED_Row24-4(243.243mm,197.035mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row2-4(231.051mm,51.747mm) on Top Layer And Pad D9_LED_Row3-4(231.051mm,58.351mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row3-3(231.051mm,59.251mm) on Top Layer And Pad D9_LED_Row4-3(231.051mm,65.855mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row3-4(231.051mm,58.351mm) on Top Layer And Pad D9_LED_Row4-4(231.051mm,64.955mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row4-3(231.051mm,65.855mm) on Top Layer And Pad D9_LED_Row5-3(231.051mm,72.459mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row4-4(231.051mm,64.955mm) on Top Layer And Pad D9_LED_Row5-4(231.051mm,71.559mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row5-3(231.051mm,72.459mm) on Top Layer And Pad D9_LED_Row6-3(231.051mm,79.063mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row5-4(231.051mm,71.559mm) on Top Layer And Pad D9_LED_Row6-4(231.051mm,78.163mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row6-3(231.051mm,79.063mm) on Top Layer And Pad D9_LED_Row7-3(231.051mm,85.667mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row6-4(231.051mm,78.163mm) on Top Layer And Pad D9_LED_Row7-4(231.051mm,84.767mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row7-3(231.051mm,85.667mm) on Top Layer And Pad D9_LED_Row8-3(231.051mm,92.271mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row7-4(231.051mm,84.767mm) on Top Layer And Pad D9_LED_Row8-4(231.051mm,91.371mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 4V_LED_Row1 Between Pad D9_LED_Row8-3(231.051mm,92.271mm) on Top Layer And Pad D9_LED_Row9-3(231.051mm,98.875mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net Col_27_LED_Row1 Between Pad D9_LED_Row8-4(231.051mm,91.371mm) on Top Layer And Pad D9_LED_Row9-4(231.051mm,97.975mm) on Top Layer 
+Rule Violations :500
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room LED_Row5 (Bounding Region = (84.582mm, 70.739mm, 380.492mm, 76.073mm) (InComponentClass('LED_Row5'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row6 (Bounding Region = (84.582mm, 77.343mm, 380.492mm, 82.677mm) (InComponentClass('LED_Row6'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row7 (Bounding Region = (84.582mm, 83.947mm, 380.492mm, 89.281mm) (InComponentClass('LED_Row7'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row2 (Bounding Region = (84.582mm, 50.927mm, 380.492mm, 56.261mm) (InComponentClass('LED_Row2'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row3 (Bounding Region = (84.582mm, 57.531mm, 380.492mm, 62.865mm) (InComponentClass('LED_Row3'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row4 (Bounding Region = (84.582mm, 64.135mm, 380.492mm, 69.469mm) (InComponentClass('LED_Row4'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row8 (Bounding Region = (84.582mm, 90.551mm, 380.492mm, 95.885mm) (InComponentClass('LED_Row8'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row20 (Bounding Region = (84.582mm, 169.799mm, 404.876mm, 175.133mm) (InComponentClass('LED_Row20'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row21 (Bounding Region = (84.582mm, 176.403mm, 396.748mm, 181.737mm) (InComponentClass('LED_Row21'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row18 (Bounding Region = (84.582mm, 156.591mm, 400.812mm, 161.925mm) (InComponentClass('LED_Row18'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row19 (Bounding Region = (84.582mm, 163.195mm, 400.812mm, 168.529mm) (InComponentClass('LED_Row19'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row24 (Bounding Region = (84.582mm, 196.215mm, 404.876mm, 201.549mm) (InComponentClass('LED_Row24'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row1 (Bounding Region = (84.29mm, 32.316mm, 133.604mm, 37.65mm) (InComponentClass('LED_Row1'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row22 (Bounding Region = (84.582mm, 183.007mm, 404.876mm, 188.341mm) (InComponentClass('LED_Row22'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row23 (Bounding Region = (84.582mm, 189.611mm, 404.876mm, 194.945mm) (InComponentClass('LED_Row23'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row17 (Bounding Region = (84.582mm, 149.987mm, 400.812mm, 155.321mm) (InComponentClass('LED_Row17'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row12 (Bounding Region = (84.582mm, 116.967mm, 400.812mm, 122.301mm) (InComponentClass('LED_Row12'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row9 (Bounding Region = (84.582mm, 97.155mm, 380.492mm, 102.489mm) (InComponentClass('LED_Row9'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row10 (Bounding Region = (84.582mm, 103.759mm, 400.812mm, 109.093mm) (InComponentClass('LED_Row10'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row11 (Bounding Region = (84.582mm, 110.363mm, 392.684mm, 115.697mm) (InComponentClass('LED_Row11'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row15 (Bounding Region = (84.582mm, 136.779mm, 400.812mm, 142.113mm) (InComponentClass('LED_Row15'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row16 (Bounding Region = (84.582mm, 143.383mm, 400.812mm, 148.717mm) (InComponentClass('LED_Row16'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row13 (Bounding Region = (84.582mm, 123.571mm, 400.812mm, 128.905mm) (InComponentClass('LED_Row13'))
+Rule Violations :0
+
+Processing Rule : Room LED_Row14 (Bounding Region = (84.582mm, 130.175mm, 400.812mm, 135.509mm) (InComponentClass('LED_Row14'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:01
